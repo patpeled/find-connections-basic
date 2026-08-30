@@ -1,0 +1,19 @@
+{
+  "excel_dir": "C:\\Users\\you\\Documents\\Job search",
+  "excel_filename": "Shortlisted companies.xlsx",
+  "relevant_roles": [
+    "Product Manager",
+    "Senior Product Manager",
+    "VP Product",
+    "Head of Product",
+    "Director of Product",
+    "CTO",
+    "VP Engineering"
+  ],
+  "relevant_industries": [
+    "B2B SaaS",
+    "Fintech",
+    "Analytics"
+  ],
+  "relevant_role_patterns": []
+}

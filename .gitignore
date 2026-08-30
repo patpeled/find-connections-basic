@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Personal data — NEVER commit spreadsheets or a per-user config.
+# (The per-user config lives INSIDE the package at <skill-root>/config.json; the
+#  config.json rule below keeps it out of git so it's contained in the skill
+#  folder yet never shared.)
+*.xlsx
+*.xls
+config.json
+
+# Ephemeral run artifacts (normally in the OS temp work dir, not here)
+cache.json
+resolved.json
+*_backup_*.xlsx
